@@ -23,6 +23,7 @@ params:
     author: Nuno Gonçalves
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
+    favicon: "favicon.ico"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
