@@ -1,0 +1,5 @@
+.profile_inner span a {
+    box-shadow: 0 2px 0 var(--darkcolor);
+    color: currentColor;
+    text-decoration: none;
+}
