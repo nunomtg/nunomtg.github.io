@@ -3,6 +3,11 @@ title: "Papers"
 description: "Preprints and articles by me :)"
 ---
 
-As of now I do not have anything to show. Hopefully soon though!
+# Papers
+
+- **Nuno Gonçalves**, Marcos V. Treviso, André F. T. Martins.  
+*[AdaSplash](https://arxiv.org/abs/2502.12082): Adaptive Sparse Flash Attention*.  
+To appear in *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, 2025. **_Spotlight_**.
+
 
 ---

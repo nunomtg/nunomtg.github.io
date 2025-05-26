@@ -48,7 +48,7 @@ params:
           enabled: true
           title: Nuno Gonçalves
           subtitle: "I am a final-year Master's student at Instituto Superior Técnico. I am currently working on my thesis under the supervision of [Professor André Martins](https://andre-martins.github.io/), with my main focus being on dynamic sparse transformations, such as [Entmax](https://arxiv.org/abs/1905.05702), and [sparse loss functions](https://arxiv.org/abs/1901.02324)."
-          imageUrl: "picture.jpeg"
+          imageUrl: "photo.JPG"
           imageWidth: 160
           imageHeight: 160
           buttons:
